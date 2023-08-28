@@ -39,7 +39,7 @@ I'm a Data Architect from México 🇲🇽.
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="" alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="" alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="" alt="" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="" alt="" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" title="" alt="" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="" alt="" width="40" height="40"/>
 </div>
 
