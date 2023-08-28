@@ -5,14 +5,14 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=valdezdata&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ---
 
 ### 👨‍💻 About Me :
 I'm a Data Architect from México 🇲🇽.
 
-- 🌱 Strong passion for Data Engineering, Data Analysis, Data Science, & Software Engineering
+- 🌱 Strong passion for Data Engineering, Data Science, & Software Engineering
 
 - 🐧 Terminal Elitist
 
