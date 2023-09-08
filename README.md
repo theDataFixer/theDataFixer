@@ -15,9 +15,9 @@ I'm a Data Architect from México 🇲🇽.
 
 - 🐧 Terminal Elitist
 
-- 💻 Website: [https://valdezdata.com](https://valdezdata.com)
+- 💻 Website:
 
-- 📫 How to reach me: **info@valdezdata.com** 
+- 📫 How to reach me:
 
 ---
 
