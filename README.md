@@ -1,6 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" width="200"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/omarvaldez5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.youtube.com/@valdezdata"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=valdezdata&style=flat-square&color=blue" alt=""></p>
