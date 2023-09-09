@@ -15,7 +15,7 @@ I'm a Data Architect from México 🇲🇽.
 
 - 🐧 Terminal Elitist
 
-- 💻 Website: https://theDataFixer.xyz
+- 💻 Website: https://thedatafixer.xyz
 
 - 📫 How to reach me: **info@thedatafixer.xyz**
 
