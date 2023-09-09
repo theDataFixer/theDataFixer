@@ -13,9 +13,9 @@ I'm a Data Architect from México 🇲🇽.
 
 - 🌱 Strong passion for Data Engineering, Data Science, & Software Engineering
 
-- 🐧 Terminal Elitist
+- 🐧 Linux Fan
 
-- 💻 Website: https://thedatafixer.xyz
+- 💻 Blog: https://thedatafixer.xyz
 
 - 📫 How to reach me: **info@thedatafixer.xyz**
 
