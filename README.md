@@ -19,6 +19,8 @@ I'm a Data Architect from México 🇲🇽.
 
 - 📫 How to reach me: **info@thedatafixer.xyz**
 
+- :accessibility: Avatar made in: https://demize.gg/TerrariaMaker/
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
