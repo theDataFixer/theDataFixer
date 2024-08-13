@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me :
-I'm a Data Architect from México 🇲🇽.
+I'm a Data Architect.
 
-- 🌱 Strong passion for Data Engineering, Data Science, & Software Engineering
+- 🌱 Data Engineering, Data Science, Software Engineering
 
-- 🐧 Linux Fan
+- 🐧 Linux
 
 - 💻 Blog: https://thedatafixer.xyz
 
