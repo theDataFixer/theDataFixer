@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I'm a Data Architect.
+Like to fix Data.
 
 - 🌱 Data Engineering, Data Science, Software Engineering
 
