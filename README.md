@@ -1,8 +1,11 @@
 ### Moved to Codeberg:
 
-Why not GitHub?
-- **Not for personal use:** Don't want to do "personal contributions" when updating dotfiles, blog, etc.
-- **Must read:** https://tomscii.sig7.se/2024/01/Ditching-GitHub
-- **Must read as well:** https://sfconservancy.org/GiveUpGitHub/
+Why NOT GitHub?
+- Don't want to do *"personal contributions"* when updating dotfiles, blog, or something else.
+- Don't want to do *"commit farming"*, which is creating an appearance of high activity.
+- Don't want to misrepresent my activity level because I prefer to do genuine contributions.
 
-For collaboration and as a social media, I'll use GitHub because it's the current standard.
+And why GitHub?
+- For meaningful personal projects
+- For collaboration on FOSS
+- For social media
