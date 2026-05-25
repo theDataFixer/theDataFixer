@@ -3,9 +3,9 @@
 
 ### About Me :
 
-- 📫 How to reach me: **soyomarvaldezg@gmail.com**
+- 📫 How to reach me: **contact@soyomarvaldezg.com**
 
-- Main repo: https://codeberg.org/soyomarvaldezg
+- **Main repo: https://codeberg.org/soyomarvaldezg**
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
